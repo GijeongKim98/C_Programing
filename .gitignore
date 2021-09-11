@@ -53,7 +53,7 @@
 .tmp_versions/
 modules.order
 Module.symvers
-Mkfile.old
+Mkfile.oldg
 dkms.conf
 
 # End of https://www.toptal.com/developers/gitignore/api/c
